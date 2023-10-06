@@ -1,3 +1,5 @@
+![logo](https://github.com/Asim-Koirala/Asim-Koirala/blob/main/space_banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Asim Koirala</h1>
 <h3 align="center">A passionate student from Nepal.</h3>
 
