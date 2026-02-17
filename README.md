@@ -6,7 +6,7 @@
 <img align="right" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="image">
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **durgaprasadkoirala19@gmail.com**
+- 📫 How to reach me **asimkoirala01@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
